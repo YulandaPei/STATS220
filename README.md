@@ -7,9 +7,9 @@
 > ![logo of UoA](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg)
 
 
+-----------------------------------------------
 
-
-### Capabilities Developed in this Course
+### Capabilities Developed in STATS 220
 **Capability 1**:	Disciplinary Knowledge and Practice
 
 **Capability 2**:	Critical Thinking
@@ -22,9 +22,9 @@
 
 **Capability 6**:	Social and Environmental Responsibilities
 
+--------------------------------------------------
 
-
-### Learning Outcomes
+### Learning Outcomes of STATS 220
 By the end of this course, students will be able to:
 1. Undertake a broad variety of data science tasks (_Capability 1, 2, 3, 4 and 5_)
 2. Demonstrate programming skills to import, wrangle and visualise data for decision making, using R (_Capability 1, 2 and 3_)
