@@ -1,6 +1,12 @@
 # Statistics 220
 ## Introduction to Data Technologies
 
+### Background
+> This is where I started my journey of data science in R at the University of Auckland.
+> ![Here is logo of UoA](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg)
+
+
+
 ### Capabilities Developed in this Course
 **Capability 1**:	Disciplinary Knowledge and Practice
 
