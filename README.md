@@ -3,8 +3,9 @@
 
 ### Background
 > This is where I started my journey of data science in R at the University of Auckland.
+> [You may visit the website of UoA here](https://www.auckland.ac.nz/en.html)
 > ![logo of UoA](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg)
-> ![picture of UoA](https://www.uniservices.co.nz/sites/default/files/UoA%20Inventors%20Fund.jpg)
+
 
 
 
