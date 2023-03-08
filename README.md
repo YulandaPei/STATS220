@@ -3,7 +3,7 @@
 
 ### 🖤 _Data Science_ 🖤<br>
 I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
-[Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html)<br>
+[Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html) <br>
 
 
 By taking the course of  **STATS 220** at UoA, I would like to gain the following knowledge and skills:
@@ -24,7 +24,10 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 I am interested in the following areas of photography: <br>
 - **Street Photophaphy**	 
 - **Portrait Photography**	 
-- **Landscape Photography**	
+- **Black and White Photography**	
+
+![](https://n.sinaimg.cn/tech/5_img/upload/22e162b7/w800h533/20171206/ZLar-fypikwu1367705.jpg)
+> p.s.: photo from internet.
 
 
 --------------------------------------------------
