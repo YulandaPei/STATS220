@@ -2,7 +2,7 @@
 ## Data Science | Photography | Minimalism
 
 ### 🖤 _Data Science_ 🖤<br>
-I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
+**I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland.** <br>
 [Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html) <br>
 
 
@@ -22,10 +22,10 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 -----------------------------------------------
 
 ### 🖤 _Photography_ 🖤 <br>
-I am interested in the following areas of photography: <br>
-- **Street Photophaphy**	 
-- **Family Photography**	 
-- **Black and White Photography**	
+**I am interested in the following areas of photography:** <br>
+- _Street Photophaphy_ 
+- _Family Photography_
+- _Black and White Photography_
 
 ![](https://static-cse.canva.cn/blob/100212/1505461376110371.jpg) <br>
 *Photo from the internet.*
@@ -34,7 +34,7 @@ I am interested in the following areas of photography: <br>
 --------------------------------------------------
 
 ### 🖤 _Minimalism_ 🖤 <br>
-I am in the process of moving away from consumerism and living a simple life: <br>
+**I am in the process of moving away from consumerism and living a simple life:** <br>
 - Read digital books instead of hard copies.
 - Use reusable bags for grocery shopping trips.
 - Reduce clothing purchases gradually.
