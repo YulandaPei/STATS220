@@ -27,7 +27,7 @@ I am interested in the following areas of photography: <br>
 - **Family Photography**	 
 - **Black and White Photography**	
 
-![](https://static-cse.canva.cn/blob/100212/1505461376110371.jpg  {width=40px height=400px}) <br>
+![image](https://static-cse.canva.cn/blob/100212/1505461376110371.jpg  {width=40px height=400px}) <br>
 *Photo from the internet.*
 
 
