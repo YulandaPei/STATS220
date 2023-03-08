@@ -16,7 +16,7 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 > Note: The above description coming from the _Course Catelog_. <br>
 > [Click here to view the Course Catelog of STATS 220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)<br>
 
-![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png | width=100) <br>
+![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png = 300 * 200) <br>
 *Photo from the internet.*
 
 -----------------------------------------------
