@@ -13,9 +13,8 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 4. Develop communication skills, including using reproducible reporting with R Markdown.
 5. Select and combine a range of data technologies, including HTML and CSS for reporting and web scraping.
 6. Apply good practice of project-oriented workflow and data-related responsibilities.
-> Note: The above description coming from the _Course Catelog_.
-> [Here is a link to the _Course Catelog_]: <br>
-> (https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)
+> Note: The above description coming from the _Course Catelog_. <br>
+> [Here is a link to the _Course Catelog_]: (https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)
 
 -----------------------------------------------
 
