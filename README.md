@@ -1,15 +1,16 @@
-# Statistics 220
-## Introduction to Data Technologies
+# Yulanda Pei
+## Data Science | Photography | Minimalism
 
-### Background
-> This is where I started my journey of data science in R at the University of Auckland.<br>
-> [You may visit the website of UoA here.](https://www.auckland.ac.nz/en.html)<br>
-> ![logo of UoA](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg)
+### 🖤 Data Science 🖤
+>  I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
+> [You can visit the UoA website here if you are interested.](https://www.auckland.ac.nz/en.html)<br>
+> ![logo of UoA](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg "I love UoA")
 
 
 -----------------------------------------------
 
-### Capabilities Developed in STATS 220
+### 🖤 Photography 🖤
+> I love photography and try to take photos while I am travelling.
 **Capability 1**:	Disciplinary Knowledge and Practice
 
 **Capability 2**:	Critical Thinking
