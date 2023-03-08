@@ -4,7 +4,7 @@
 ### 🖤 _Data Science_ 🖤<br>
 I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
 [Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html)<br>
-![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png)
+
 
 By taking the course of  **STATS 220** at UoA, I would like to gain the following knowledge and skills:
 1. Undertake a broad variety of data science tasks.
@@ -15,6 +15,7 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 6. Apply good practice of project-oriented workflow and data-related responsibilities.
 > Note: The above description coming from the _Course Catelog_. <br>
 > [Click here to view the Course Catelog of STATS 220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)
+> ![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png)
 
 -----------------------------------------------
 
