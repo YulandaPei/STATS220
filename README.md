@@ -16,7 +16,7 @@ By taking the course of  **STATS 220** at UoA, I would like to gain the followin
 > Note: The above description coming from the _Course Catelog_. <br>
 > [Click here to view the Course Catelog of STATS 220](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)<br>
 
-![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png) <br>
+![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png){:height="36px" width="36px"}. <br>
 *Photo from the internet.*
 
 -----------------------------------------------
@@ -27,7 +27,7 @@ I am interested in the following areas of photography: <br>
 - **Family Photography**	 
 - **Black and White Photography**	
 
-![](https://static-cse.canva.cn/blob/100212/1505461376110371.jpg) <br>
+![](https://static-cse.canva.cn/blob/100212/1505461376110371.jpg){:height="36px" width="36px"}. <br>
 *Photo from the internet.*
 
 
@@ -39,5 +39,5 @@ I am in the process of moving away from consumerism and living a simple life: <b
 - Use reusable bags for grocery shopping trips.
 - Reduce clothing purchases gradually.
 
-![](https://s3.ifanr.com/wp-content/uploads/2022/08/pexels-paula-schmidt-963486-scaled.jpg) <br>
+![](https://s3.ifanr.com/wp-content/uploads/2022/08/pexels-paula-schmidt-963486-scaled.jpg){:height="36px" width="36px"}. <br>
 *Photo from the internet.*
