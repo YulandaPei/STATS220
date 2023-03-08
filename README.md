@@ -4,7 +4,7 @@
 ### 🖤 _Data Science_ 🖤<br>
 I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
 [Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html)<br>
-![The University of Auckland](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6vZZLKV5wOsSJtZosyDpP_DlEutvTA9jng&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2yETO_AxJ76Vn5-FJat8nwdMPGuFpJPxziQ&usqp=CAU)
+![The University of Auckland](https://wun.ac.uk/wp-content/uploads/UOA-HC-RGB.png)
 
 By taking the course of  **STATS 220** at UoA, I would like to gain the following knowledge and skills:
 1. Undertake a broad variety of data science tasks.
@@ -32,6 +32,3 @@ I am in the process of moving away from consumerism and living a simple life: <b
 - Read digital books instead of hard copies.
 - Use reusable bags for grocery shopping trips.
 - Reduce clothing purchases gradually.
-
-
-
