@@ -3,7 +3,7 @@
 
 ### 🖤 _Data Science_ 🖤<br>
 I am currently studying for a Bachelor of Science (majoring in Data Science) at the University of Auckland. <br>
-[Please visit the UoA website here if you are interested.](https://www.auckland.ac.nz/en.html)<br>
+[Click here to visit the website of UoA](https://www.auckland.ac.nz/en.html)<br>
 ![The University of Auckland](https://pbs.twimg.com/profile_images/1496591492265447424/DZbO_ts6_400x400.jpg)
 
 By taking the course of  **STATS 220** at UoA, I would like to gain the following knowledge and skills:
